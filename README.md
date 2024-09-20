@@ -34,10 +34,8 @@ Utilizamos un modelo de regresión logística para realizar esta predicción.
    
    Clona este repositorio en tu máquina local utilizando Git:
    
-  ////////////////////////////////////////////////////// 
   git clone https://github.com/usuario/repo.git
   cd repo
-  //////////////////////////////////////////////////////
 
 3. *Cargar los datos*:
    
