@@ -28,7 +28,7 @@ Utilizamos un modelo de regresión logística para realizar esta predicción.
 - `README.md`: Este archivo, que describe el propósito y los pasos para ejecutar el proyecto.
 
 
-## Ejecución del Proyecto
+📍 ## Ejecución del Proyecto
 
 1. *Clonar el repositorio*:
    
@@ -51,7 +51,7 @@ Utilizamos un modelo de regresión logística para realizar esta predicción.
 
 ------------------------------------------------
 
-_Descripción del Código_
+📄 _Descripción del Código_
 
 El código se estructura de la siguiente manera:
 
@@ -86,6 +86,6 @@ Al ejecutar el modelo de regresión logística, deberías obtener resultados que
 
 ------------------------------------------------
 
-Contribuciones
+📢 _Contribuciones_
 
 Si deseas contribuir a este proyecto, siéntete libre de hacer un **fork** y enviar un **pull request** con tus sugerencias o mejoras.
