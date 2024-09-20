@@ -28,7 +28,7 @@ Utilizamos un modelo de regresión logística para realizar esta predicción.
 - `README.md`: Este archivo, que describe el propósito y los pasos para ejecutar el proyecto.
 
 
-📍 ## Ejecución del Proyecto
+## Ejecución del Proyecto
 
 1. *Clonar el repositorio*:
    
